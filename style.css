@@ -1,0 +1,27 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Hurricane&family=Roboto:ital,wght@0,400;0,500;0,700;1,400&display=swap');
+
+
+.parent {
+    font-size: 16px;
+    text-align: justify;
+}
+
+.title {
+font-size: 2em;
+font-family: 'Great Vibes', cursive;
+font-weight:bold
+} 
+
+.subtitle {
+font-size: 18px;
+font-style: Montserrat Bold ;
+font-weight: bold;
+}
+
+.textBloc{
+text-align: justify ;
+font-size: 1em;
+font-style: Arial, sans-sérif;
+}
